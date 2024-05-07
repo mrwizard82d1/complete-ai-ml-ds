@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fdbf6c6d2e802210",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md"
+                "file": "Complete AI, Machine Learning and Deep Learning.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "23045d9e46571518",
   "lastOpenFiles": [
-    "Complete AI, Machine Learning and Deep Learning.md",
     "05-Pandas-Data-Analysis.md",
+    "Complete AI, Machine Learning and Deep Learning.md",
     "file;/Users/larry/professional/projects/Complete-AI-ML-DS/04.md",
     "file;/Users/larry/professional/projects/Complete-AI-ML-DS",
     "file;/Users/larry/professional/projects",

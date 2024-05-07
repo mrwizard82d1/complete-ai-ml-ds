@@ -4,7 +4,11 @@
 [[03-The-Two-Paths]]
 [[04-Data-Science-Environment-Setup-A]]
 [[05-Pandas-Data-Analysis]]
-[[99-Foobar]]
+
+## Useful resources
+
+[Managing conda Environments](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+[Jupyter Keyboard Shortcuts Assuming Vim](https://datadependence.com/2017/02/speed-up-jupyter-notebook-workflow/)
 
 
 
