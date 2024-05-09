@@ -25,13 +25,26 @@
 
 - Practice, practice, practice
 - `conda env list` to list available `conda` environments
-- `pandas` supports loading files
+- `conda activate <env-name-or-path>` to activate our `conda` environment
+- Use `import pandas as pd` to import pandas
+- Two main datatypes
+	- `Series` : One-dimensional datatype
+	- `Dataframe`: Two-dimensional datatype
+		- Can be created **from** one or more `Series`
+- See the file [[Anatomy of a Data Frame.png]] for basic parts
+- `pandas` supports loading files into a data frame (typical usage)
 	- From the file system
 		- `heart_disease = pd.read_csv("data/heart-disease.csv")`
 	- From a URL (the internet)
 		- `heart_disease = pd.read_csv("https://raw.githubusercontent.com/mrdbourke/zero-to-mastery-ml/master/data/heart-disease.csv")`
 		- Further note the use of the URL for the "raw" format of GitHub
-
+- Additionally, `pandas` supports saving files
+	- For example, `car_sales.to_csv('car_sales.csv')` will 
+		- Write the data frame, `car_sales`, to disk
+		- The written file will contain the data frame data written as a `.csv` file
+	- The method, `DataFrame.to_csv()` takes an optional, boolean parameter, `index`
+		- If `index` is "truthy," the default, `to_csv` will write the "index" column
+		- If `index` is  "falsy", `to_csv` will **not** write the index column
 ## Describing data with pandas
 
 * `dtypes` 
