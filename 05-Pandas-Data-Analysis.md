@@ -8,6 +8,9 @@
 	- Not everything 
 	- Most useful functions
 	- Pandas data types
+		- Two main ones:
+			- Data frames
+			- Series
 	- Import / export
 	- Describing data
 	- View / select data
