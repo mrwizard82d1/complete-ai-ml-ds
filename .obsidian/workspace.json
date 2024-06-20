@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md",
+                "file": "Complete AI, Machine Learning and Deep Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-Pandas-Data-Analysis.md"
+                "file": "Complete AI, Machine Learning and Deep Learning.md"
               }
             }
           }
@@ -149,6 +149,8 @@
   },
   "active": "23045d9e46571518",
   "lastOpenFiles": [
+    "00-Introduction.md",
+    "Complete A.I. Machine Learning and Data Science.md",
     "Complete AI, Machine Learning and Deep Learning.md",
     "05-Pandas-Data-Analysis.md",
     "Anatomy of a Data Frame.png",
