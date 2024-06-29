@@ -1,0 +1,37 @@
+- Understand
+	- What we are learning
+	- Where we will end up
+	- That is, a clear path to success
+- Machine Learning 101
+	- Understand the craze
+- Two paths
+	- Don't know Python (no programming)
+	- Already know Python and programming
+- Work environment
+	- Professional setup of tools
+- Pandas
+- NumPy
+- Matplotlib - data visualizations
+- Scikit-learn
+	- Learn models
+	- Use model
+	- Check models
+- Supervised Learning
+	- Regression
+	- Classification
+- Neural networks
+	- Transfer Learning
+	- Time series data
+- Data Engineering
+	- Tools
+		- Hadoop
+		- Spark
+- Storytelling and communication
+	- Required for applying learnings in the real world
+	- A critical part in today's world
+
+- We will follow a "storyline"
+	- Hired as data scientist at a fictitious company
+
+- Online community
+	- 
