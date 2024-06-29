@@ -1,0 +1,20 @@
+- AI
+	- Narrow AI
+		- Solves a "small" problem
+	- General AI
+		- "Human-like behavior"
+- Machine Learning
+	- Using a machine to solve a "small" problem
+- Deep Learning
+	- A way to implement machine learning
+- Data science
+	- Overlaps
+		- AI
+		- Machine Learning
+		- Data science
+- This course is **not** theoretical
+	- But **practical**
+- Class approach
+	- Includes "machine learning"
+	- And "deep learning"
+	- Inside of "data science"
