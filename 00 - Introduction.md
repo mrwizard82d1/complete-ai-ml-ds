@@ -2,5 +2,5 @@
 [[Course Outline]]
 [[Course Resources]]
 [[Your First Day]]
-
+[[What is Machine Learning]]
 

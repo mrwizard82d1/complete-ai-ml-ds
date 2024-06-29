@@ -1,0 +1,18 @@
+- Computers are good at certain things
+	- Fast
+	- Can control the tasks of computers
+- Example: find route to Daniel's house
+	- Measure each route and a map and find shortest
+		- Single problem solution
+	- Program computer to find the shortest route (between **any** two points)
+		- Generalized approach
+- Computers good at solving problems with
+	- Well-defined rules
+	- Not good at problems like
+		- Is this person angry?
+		- Is this picture a cat?
+	- General strategy: separate problems
+- Machine learning changes problem solving decision
+- Goal
+	- Machines act more and more "like humans"
+	
