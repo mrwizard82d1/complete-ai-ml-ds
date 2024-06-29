@@ -1,0 +1,9 @@
+- An in demand skill
+- Focuses on key skills in area
+- Build "real-world" projects
+	- Multiple projects to be built
+- Why different
+	- Two paths: With or Without Python
+	- Two instructors from the industry
+	- Private on-line community
+- 
