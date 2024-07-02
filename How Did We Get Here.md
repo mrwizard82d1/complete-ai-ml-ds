@@ -1,0 +1,23 @@
+- Understand "the why"
+- Technology evolves from business need
+	- Computers allow business to do things "really, really fast"
+	- Spreadsheets enabled staff to answer questions quickly
+	- Relational databases provide better organization of data
+		- Use SQL to read data from database
+		- Use generated data to make better decisions
+	- "Big data"
+		- Companies in "oughts" accumulated **huge** amounts of data
+		- Some data was **unstructured**
+	- More and more data generates
+		- The opportunity to use
+			- Machine learning
+		- No longer humans exclusively trying to 
+			- Make business decisions
+			- But also machines
+	- Very simple model
+- Our framework
+	- [Data modeling process](https://dev.mrdbourke.com/zero-to-mastery-ml/a-6-step-framework-for-approaching-machine-learning-projects/)
+	- Most difficult step
+		- **Data collection**
+		- Much of data we currently collect is **unused**
+	- Data often messy and poorly structured
