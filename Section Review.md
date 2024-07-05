@@ -1,0 +1,3 @@
+- Machine learning
+	- Makes learning from large amounts of data easier
+- Let's computers "decide for us"
