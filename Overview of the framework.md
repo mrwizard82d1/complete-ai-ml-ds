@@ -1,0 +1,9 @@
+- Goal
+	- Build our own 
+		- Machine learning and
+		- Data engineering **framework**
+- Last "theoretical" section (no code)
+- Objective:
+	- Review this section to understand the big picture
+- Feel free to return if getting lost in the future
+- 
