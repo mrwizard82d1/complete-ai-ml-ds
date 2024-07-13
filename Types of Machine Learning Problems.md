@@ -1,0 +1,56 @@
+- But first... Why should you **not** use machine learning?
+	- Will a hand-coded instruction based system work?
+- Main types of machine learning
+	- Key to match type of machine learning to business problem
+	- Match business
+	- Supervised learning
+	- Unsupervised learning
+	- Transfer learning
+	- Reinforcement learning
+	- Focus on first three
+		- Have proven track record
+- Supervised learning
+	- Have data and labels
+	- Algorithm attempts to predict label from data
+		- If prediction "bad", algorithm "learns"
+	- Classification
+		- "One thing or another"
+		- Binary - only two options
+			- Example: heart disease or no heart disease
+		- Multi-class - more than two options
+			- Dog breeds from pictures
+	- Regression
+		- Trying to predict a number
+		- Continuous
+		- Examples
+			- Predict the sale price of a house
+			- Predict sales of app to be launched
+- Unsupervised learning
+	- Data but **no** labels
+	- Example:
+		- Who's interested in summer clothes?
+	- Labels applied **after** learning
+	- Types
+		- Clustering
+		- Recommendations
+- Transfer learning
+	- Leverages an existing model 
+	- Fine tune model for your specific problem
+	- Example
+		- Start with system that identifies car models
+		- Fine tune model to recognize dog breeds
+			- (May be a bit too far afield - I don't know)
+- Reinforcement learning
+	- Rewards program for doing well; punish for doing poorly
+	- Requires a "defined space"
+	- Example
+		- DeepMinds training in Go
+		- Still in "early phase"
+			- So will not focus on this type of learning
+- Matching your problem
+	- "I know my inputs and outputs"
+		- Classification
+		- Regression
+	- "I have inputs but I'm not sure of outputs"
+	- "I think my problem is similar to something else"
+	- 
