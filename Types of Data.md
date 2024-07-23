@@ -1,0 +1,32 @@
+- What kind of data do we have?
+- Different types
+	- Structured data
+		- Excel
+		- CSV
+		- All samples have similar format
+		- All columns have same "type"
+	- Unstructured data
+		- Images
+		- Natural language text
+		- Video
+		- Audio
+		- Many varying formats
+			- Different pictures of dogs
+			- Email
+	- Static data
+		- CSV (to `DataFrame`)
+		- "Static" because format does not change over time
+	- Streaming data
+		- Changes (constantly) **with time**
+		- News headlines
+- Often move from static data initially to streaming data
+- Key idea
+	- More data => more opportunities to find patterns
+- Data science workflow
+	- Open CSV file in Jupyter notebook
+	- Explore data and perform **data analysis** using `pandas`
+		- Create **derived** `DataFrame`s
+	- Visualize data using `matplotlib`
+		- Exploring / visualizing feed off each other
+	- Build machine learning models on data using `sci-kit.learn`
+		- For example, producing a model to predict heart disease
