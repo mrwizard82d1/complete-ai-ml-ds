@@ -1,0 +1,21 @@
+- "What defines success **for us**?"
+	- For example,
+		- For this project to be worth pursuing further
+		- We need a machine learning model with 
+		- Over 99% accuracy
+- Different metrics for different kinds of problems
+	- Classification
+		- Accuracy
+		- Precision
+		- Recall
+	- Regression
+		- Mean absolute error (MAE)
+		- Mean squared error (MSE)
+		- Root mean squared error (RMSE)
+	- Recommendation
+		- Precision at K
+- Defining metrics at beginning of project
+	- Provides everyone with common goal
+	- But remember, project metrics **may change**
+- What do you measure?
+- 
