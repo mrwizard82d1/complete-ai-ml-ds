@@ -1,5 +1,5 @@
 - A framework to address different kinds of problems
-	- A "field guide"
+	- A [field guide](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/)
 - Six steps
 	1. Problem definition
 	2. Data
@@ -44,7 +44,7 @@
 		- Find the right model for **my** problem
 - Experimentation
 	- "How could we improve? What can we try next?"
-	- Many attempts
+	- Many attempts; that is, **iterative**
 	- Ask question after each attempt
 
 Consider [reading this article](https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/)
