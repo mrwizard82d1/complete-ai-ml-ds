@@ -1,8 +1,8 @@
 - "What defines success **for us**?"
 	- For example,
 		- For this project to be worth pursuing further
-		- We need a machine learning model with 
-		- Over 99% accuracy
+			- We need a machine learning model with 
+			- Over 99% accuracy
 - Different metrics for different kinds of problems
 	- Classification
 		- Accuracy
@@ -14,6 +14,8 @@
 		- Root mean squared error (RMSE)
 	- Recommendation
 		- Precision at K
+			- "K" is a number
+			- That is, how good are the recommendations for K items?
 - Defining metrics at beginning of project
 	- Provides everyone with common goal
 	- But remember, project metrics **may change**

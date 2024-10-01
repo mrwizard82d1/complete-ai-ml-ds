@@ -14,8 +14,9 @@
 			- Different pictures of dogs
 			- Email
 	- Static data
-		- CSV (to `DataFrame`)
-		- "Static" because format does not change over time
+		- For example, a CSV file (read into `DataFrame`)
+		- "Static" 
+			- Means "format does not change over time"
 	- Streaming data
 		- Changes (constantly) **with time**
 		- News headlines
