@@ -1,0 +1,33 @@
+- Modeling Part 1 (3 sets)
+	- The most important part of the course
+- 3 parts
+	- Choosing and training a model
+	- Tuning
+	- Model comparison
+- The most important concept in machine learning
+	- Test splits or sets (3 sets)
+		- Training
+		- Validation
+		- Test
+	- How to mitigate the risk that our model fails in the real world
+		- Split existing data into three parts
+	- Why?
+		- Course materials (training set)
+		- Practice exam (validation set)
+		- Final exam (test set)
+- The success of **all** models is based an **generalization**
+	- The ability of a machine learning model to perform well on data it **has not seen before**
+- When things go wrong?
+	- For example, practice exam is **same** as final exam
+		- Many students get really good marks
+		- But indeterminate if students have learned material
+- Splitting data
+	- Training split (70-80% of available data)
+	- Validation split (10-15% of available data)
+	- Test split (10-15% of available data)
+	- In some scenarios, you **may not have a validation split**
+	- Validation split allows one to improve model by
+		- Tuning
+	- Test split allows a "final test" to
+		- Verify that goals are achieved
+- 
