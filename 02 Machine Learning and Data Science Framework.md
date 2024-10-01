@@ -4,4 +4,6 @@
 [[Types of Machine Learning Problems]]
 [[Types of Data]]
 [[Types of Evaluation]]
+[[Features in Data]]
+
 

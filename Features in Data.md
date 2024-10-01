@@ -1,0 +1,26 @@
+- Question: "What do we already know about the data?"
+- What does "feature" mean?
+	- A synonym for different forms of data within
+		- Structured data
+		- Unstructured data
+	- Example
+		- Patient records
+			- Weight
+			- Sex
+			- Heart Rate
+			- Chest Pain
+- Different kinds of variables
+	- Numerical - a number
+	- Categorical - one of a number of sets
+	- Derived - calculated from other variables
+		- Again, can be
+			- Categorical
+			- Numerical
+	- "Feature engineering"
+- Machine learning can identify a feature
+	- Without defining the feature ahead of time
+- Missing data
+	- Imagine "Most eaten food" column
+	- But only filled in partially (less than 10%)
+	- We **want** > 10% coverage to apply machine learning
+- 
