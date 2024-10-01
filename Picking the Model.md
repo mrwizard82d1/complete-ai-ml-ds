@@ -1,0 +1,27 @@
+- Modeling part 2: choosing and training a model
+- Our focus: **choosing**
+- Initial problem
+	- What kind of ML algorithms to use with what kinds of problems?
+- Generally...
+	- Structured data
+		- CatBoost
+		- XGBoost
+		- Random Forest
+	- Unstructured data
+		- Deep Learning (neural networks)
+		- Transfer Learning
+- Training a model
+	- Main goal
+		- Align "inputs" and "outputs"
+	- We want to:
+		- Use "feature variables" to predict "target variables"
+		- Similarly, use X (data) to predict y (labels)
+	- Always uses **training data**
+- Goal: minimize times between experiments
+	- Sometimes may start with subset of training set
+	- May want to use a **simpler model** 
+	- Remember that machine learning is **highly iterative**
+- Things to remember
+	- Some models work better that others on different problems
+	- Don't be afraid to try things
+	- Start small and build up (add complexity) as needed
