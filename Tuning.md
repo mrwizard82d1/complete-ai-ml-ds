@@ -1,0 +1,19 @@
+- Modeling part 3
+	- Tuning
+	- Trying to improve the results from the **training data**
+- Tuning a model
+	- May re-use training data but...
+	- For example,
+		- Cooking chicken at 180 C versus
+		- Cooking chicken at 200 C
+	- Examples
+		- Number of trees in a random forest
+		- Number of layers in neural network
+- Things to remember
+	- Machine learning models have **hyperparameters**
+		- One can adjust these hyperparameters to improve the model performance
+	- A model's first results **are not** its last
+	- Tuning can take place on
+		- Training data sets
+		- Validation data sets
+			- When?
