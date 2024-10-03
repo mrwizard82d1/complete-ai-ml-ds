@@ -1,0 +1,60 @@
+- Gives indication how model will perform in "the real world"
+- Test data
+	- Allows us to predict behavior of model on data **it has not seen**
+- Testing a model
+	- Not uncommon to lower performance "slightly"
+	- Gotcha's: model perform "significantly"
+		- Worse on test data (underfitting)
+		- Better on test data (overfitting)
+- Overfitting and underfitting
+	- Underfitting: failing to capture shape of data
+	- Overfitting: capture shape of data "too well"
+	- Balanced
+		- Goldilocks zone ("just right")
+- Causes of overfitting / underfitting
+	- Overfitting caused by data "leakage"
+		- Somehow "see" the test data
+	- Underfitting 
+	- Learning and tuning occur
+		- On training data
+		- And tuning (verification) data, respectively
+	- Test data intended to verify behavior on 
+		- "Unseen" but representative data
+- Data mismatch and overfitting / underfitting
+	- Different features in training and test data
+	- Ensure that
+		- Test data represents 
+			- "Real world" **and**
+			- "Test world"
+- Fixes for 
+	- Underfitting
+		- Try a more advanced model
+		- Try a different model
+		- Increase model hyperparameters
+		- Reduce number of features
+			- Perhaps data has too many features
+		- Train longer
+	- Overfitting 
+		- Collect more data
+		- Try a **less** advanced model (uncommon but possible)
+			- Be cautious of model too good
+- Comparing models
+	- Ensure appropriate comparisons
+	- Is improved accuracy worth:
+		- Decreased prediction time
+			- Linear?
+		- Increased training time
+- Things to remember
+	- Avoid **both**
+		- Overfitting
+		- Underfitting
+		- More generality
+	- Keep test data separate at all costs
+	- Compare "apples to apples"
+	- One best performance metric != the best model
+
+Another warning
+- Poor performance once deployed means there is a difference in what you trained and tested your model on and what is actually happening.
+
+	
+	- 
