@@ -10,3 +10,5 @@
 [[Sharing your Conda Environment]]
 [[Jupyter Notebook Walkthrough]]
 [[Jupyter Notebook Walkthrough 2]]
+[[Jupyter Notebook Walkthrough 3]]
+
