@@ -1,4 +1,4 @@
-[[Section Overview]]
+[[Pandas Section Overview]]
 [[Pandas Introduction]]
 [[Series, Data Frames, and CSVs]]
 [[Describing Data with Pandas]]
