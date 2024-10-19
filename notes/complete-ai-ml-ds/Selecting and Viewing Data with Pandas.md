@@ -1,0 +1,30 @@
+
+Viewing and selecting data
+- `head()`
+	- Displays the first five rows in the specified `DataFrame`
+	- Called fairly often to understand the current state of values in the notebook
+	- Provides a "snap shot" on what might typically be a large amount of data in the `DataFrame`
+	- One can specify the number of rows to display (5 is the default)
+		- For example, `head(7)`, displays the first seven (7) rows of the target `DataFrame`
+- `tail()`
+	- Returns the **last** 5 rows
+	- `tail(3)` returns the last 3 rows
+- `loc(index_value)`
+	- Returns the element(s) with the index value of  `index_value`
+- `iloc(number)`
+	- Returns the element with the integral index value of `number`
+- Both `loc` and `iloc` support **slicing**
+	- For example, `animals.iloc[:3]` returns items with integer indices 0, 1 and 2
+	- Similarly, `car_sales.loc[:3]` returns items whose `Index` values are 0, 1, and 2w
+	- BEWARE, `car_sales.loc[:3] is not car_sales.iloc[:3]`!
+- Expressions like `car_sales['Make']` selects an entire **column**
+	- An alternative, if the column name is a valid Python identifier, is the expression, `car_sales.Make`
+		- For example, `car_sales['Odometer (KM)]` returns a value
+		- But the expression, `car_sales.Odometer (KM)`, raises an exception
+- Filtering via column values
+	- An expression, `car_sales[car_sales['Make'] == 'Toyota']` returns only the rows of `car_sales` whose `Make` value equals 'Toyota'
+		- The expression inside the outermost brackets is called "Boolean indexing"
+		- That is, the boolean value of the test filters values keeping the row if `True` and ignoring the row if `False`
+	- One can also filter using other operators. For example
+		- `car_sales[car_sales['Odometer (KM)'] > 100000]`
+		- 
