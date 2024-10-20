@@ -1,0 +1,27 @@
+
+Only scratching the surface of selecting and viewing data
+- `crosstab()
+	- A great way to compare two columns
+- `groupby()`
+	- Allows one to group elements in one or more columns (the default) of a `DataFrame`
+	- Similar to `crosstab()` but allows one to focus on **more than one column** at a time
+- `plot()`
+	- Plot all the (numeric) values in a column of a `DataFrame` (y-axis) against the **index** values (x-axis)
+		- Used to quickly understand the data
+		- If plot does not appear, one may need to:
+			- Execute two commands (at the top of the notebook)
+				- `%matplotlib inline`
+				- `import matplotlib.pyplot as plt`
+- `hist()`
+	- Plots a histogram of the values in the specified column
+	- Quickly allows one to assess the "shape" of data
+		- And perhaps determine "outliers"
+- Researching a type problem
+	- Enter the expression, `car_sales['Price'].plot()`
+		- This action results in a `TypeError` exception. The detailed message is 'no numeric data to plot'
+	- We investigate the "type" of this expression
+		- `car_sales['Price'].dtype`
+		- Returns `dtype('O') (an **object** type)
+	- Search "How to convert a pandas price column to an integer"
+	- Note that some changes have apparently occurred in the `replace()` function since this video was "cut"
+	- 
