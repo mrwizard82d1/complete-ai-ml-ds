@@ -1,5 +1,6 @@
 [[NumPy - Section Overview]]
 [[NumPy Introduction]]
+[[Correction for the Next Video]]
 [[NumPy Data Types and Attributes]]
 [[Creating NumPy Arrays]]
 [[NumPy Random Seed]]
