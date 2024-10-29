@@ -1,6 +1,6 @@
 The slides describing a `NumPy array` in the next video display the **wrong array** for a 3-D array
 - Here is the correct slide
-- ![[Pasted image 20241027193956.png]]
+- ![[Anatomy of an NumPy Array.png]]
 - The main difference occurs in the bottom-left array
 	- The videos display this array **incorrectly**
 - May need to run the following code:

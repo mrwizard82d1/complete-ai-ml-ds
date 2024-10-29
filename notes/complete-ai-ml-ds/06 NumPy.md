@@ -2,6 +2,7 @@
 [[NumPy Introduction]]
 [[Correction for the Next Video]]
 [[NumPy Data Types and Attributes]]
+[[NumPy Data Types and Attributes Alt]]
 [[Creating NumPy Arrays]]
 [[NumPy Random Seed]]
 [[Viewing Arrays and Matrices]]
