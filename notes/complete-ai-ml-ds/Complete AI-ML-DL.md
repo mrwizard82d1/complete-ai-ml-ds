@@ -20,3 +20,7 @@
 [[19 Where to Go From Here]]
 
 [conda cheatsheet](https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf)
+[Jupyter Notebook Shortcuts PDFs](https://github.com/mljar/data-science-cheat-sheets/tree/main/jupyter-notebook-shortcuts-pdf)
+[Jupyter Notebook Shortcuts Cheatsheet Article](https://mljar.com/blog/jupyter-notebook-shortcuts-cheatsheet/)
+
+
