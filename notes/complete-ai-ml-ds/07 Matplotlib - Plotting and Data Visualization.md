@@ -17,3 +17,7 @@
 [[Customizing Your Plots]]
 [[Saving and Sharing Your Plots]]
 [[Assignment - Matplotlib Practice]]
+
+[Section Videos Notebooks](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-matplotlib-video.ipynb)
+[Matplotlib documentation - older](https://matplotlib.org/3.1.1/contents.html)
+[Matplotlib documentation - stable](https://matplotlib.org/stable/users/index.html)
