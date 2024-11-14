@@ -162,3 +162,6 @@ cython_debug/
 # Ignore all files in `data` directory
 data/
 
+# Ignore some files in `images` directory
+images/sample-plot.png
+
