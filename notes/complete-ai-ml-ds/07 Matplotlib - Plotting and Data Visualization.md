@@ -15,6 +15,7 @@
 [[Plotting from Pandas DataFrames 6]]
 [[Plotting from Pandas DataFrames 7]]
 [[Customizing Your Plots]]
+[[Customizing Your Plots 2]]
 [[Saving and Sharing Your Plots]]
 [[Assignment - Matplotlib Practice]]
 
