@@ -23,4 +23,4 @@
 [Jupyter Notebook Shortcuts PDFs](https://github.com/mljar/data-science-cheat-sheets/tree/main/jupyter-notebook-shortcuts-pdf)
 [Jupyter Notebook Shortcuts Cheatsheet Article](https://mljar.com/blog/jupyter-notebook-shortcuts-cheatsheet/)
 
-
+[[Scikit-learn Resources]]
