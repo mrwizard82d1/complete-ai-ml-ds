@@ -1,3 +1,5 @@
+[[Scikit-learn Resources]]
+
 [[Scikit-learn Section Overview]]
 [[Scikit-learn Introduction]]
 [[Quick Note: Upcoming Videos]]
