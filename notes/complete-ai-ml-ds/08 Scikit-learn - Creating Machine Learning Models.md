@@ -2,7 +2,7 @@
 
 [[Scikit-learn Section Overview]]
 [[Scikit-learn Introduction]]
-[[Quick Note: Upcoming Videos]]
+[[Quick Note - Upcoming Videos]]
 [[Refresher - What is Machine Learning]]
 [[Quick Note - Upcoming Videos 2]]
 [[Scikit-learn Cheatsheet]]
