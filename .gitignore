@@ -165,3 +165,5 @@ data/
 # Ignore some files in `images` directory
 images/sample-plot.png
 
+# Ignore pickle files saved to disk
+random_forest_model_1.pkl
