@@ -25,3 +25,5 @@
 
 [[Pandas Resources]]
 [[Scikit-learn Resources]]
+
+[[Random Forest Resources]]
