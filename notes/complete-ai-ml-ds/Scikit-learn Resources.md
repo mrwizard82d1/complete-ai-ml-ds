@@ -6,3 +6,5 @@
 
 [Local machine learning model map](./ml_map.svg)
 [Online machine learning model map](https://scikit-learn.org/stable/machine_learning_map.html)
+[Metrics and scoring](https://scikit-learn.org/stable/modules/model_evaluation.html)
+
