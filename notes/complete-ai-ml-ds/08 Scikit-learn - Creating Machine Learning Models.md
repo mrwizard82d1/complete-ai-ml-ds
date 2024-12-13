@@ -24,6 +24,7 @@
 [[predict() vs. predict_proba()]]
 [[NEW - Making Predictions with Our Model (Regression)]]
 [[NEW - Evaluating a Machine Learning Model (Score)]]
+[[NEW - Evaluating A Machine Learning Model (Score) Part 2]]
 [[Evaluating a Machine Learning Model 2 (Cross Validation)]]
 [[Evaluating a Classification Model 1 (Accuracy)]]
 [[Evaluating a Classification Model 2 (ROC Curve)]]
