@@ -45,6 +45,8 @@
 [[Note - Metric Comparison Improvement]]
 [[Quick Tip - Correlation Analysis]]
 [[Saving and Loading a Model]]
+[[Saving and Loading a Model 2]]
 [[Putting It All Together]]
+[[Putting It All Together 2]]
 [[Scikit-Learn Practice]]
 
