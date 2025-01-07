@@ -1,4 +1,4 @@
-[[Section Overview]]
+[[Matplotlib Section Overview]]
 [[Matplotlib Introduction]]
 [[Importing and Using Matplotlib]]
 [[Anatomy of a Matplotlib Figure]]
