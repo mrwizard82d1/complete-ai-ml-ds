@@ -7,8 +7,7 @@ from joblib import (dump, load)
 
 dump(
 	 gs_classifier, 
-	 filename=\
-		 'gs_random_forest_model_1.joblib'
+	 filename=\ 'models/gs_random_forest_model_1.joblib'
 )
 ```
 
@@ -17,8 +16,7 @@ Loading a model using `joblib`
 from joblib import (dump, load)
 
 loaded_joblib_model = \ 
-	load(filanem=\
-		'gs_random_forest_model_1.joblib)
+	load(filanem='models/gs_random_forest_model_1.joblib')
 ```
 
 Which serialization package should you use?
