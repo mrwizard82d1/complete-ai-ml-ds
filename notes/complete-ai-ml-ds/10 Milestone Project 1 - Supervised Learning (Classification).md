@@ -7,6 +7,7 @@
 [[Milestone Project 1/Exploring our Data]]
 [[Milestone Project 1/Finding Patterns]]
 [[Milestone Project 1/Finding Patterns 2]]
+[[Milestone Project 1/Finding Patterns 3]]
 [[Milestone Project 1/Preparing our Data For Machine Learning]]
 [[Milestone Project 1/Choosing the Right Models]]
 [[Milestone Project 1/Experimenting with Machine Learning Models]]
