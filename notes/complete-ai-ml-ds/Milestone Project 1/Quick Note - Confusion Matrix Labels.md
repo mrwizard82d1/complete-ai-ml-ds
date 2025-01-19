@@ -21,6 +21,7 @@ def plot_conf_mat(y_test, y_preds):
 )
 
 plot_con_mat(y_test, y_preds)
+plt.show()
 ```
 - That is,
 	- x-axis has model predictions
