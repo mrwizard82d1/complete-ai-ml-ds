@@ -78,3 +78,49 @@ cv_metrics.T.plot.bar(
 	legend=False,
 )
 ```
+
+Repeat a similar process for my `RandomForestClassifier` results
+```python
+rf_gs.best_params
+
+rf_clf = RandomForestClassifier(
+	n_estimators=910,
+	max_depth=9,
+	min_samples_split=15,
+	min_samples_leaf=19,
+)
+
+scorers = {
+	'Accuracy': 'accuracy',
+	'Precision': 'precision',
+	'Recall': 'recall',
+	'F1': 'f1',
+}
+
+# Define a helper function to perform cross-validation scoring and
+# to calculate the mean across the results.
+def cross_val_score_for(scorer):
+	return np.mean(cross_val_score(
+		rf_clf, 
+		X_train,
+		y_train,
+		cv=5,
+		scoring=scorer))
+
+# Using cytoolz.dicttoolz.valmap()
+rf_clf_scores = valmap(cross_val_score_for, scorers)
+rf_clf_scores
+```
+- And plot these scores
+```python
+rf_clf_metrics = pd.DataFrame(rf_clf_scores, index=[0])
+
+rf_clf_metrics.T.plot.bar(
+	title='Cross-validated classification metrics (Random Forests)',
+	legend=False,
+)
+plt.show()
+```
+
+And we see the "alternative" results
+- But its tough from these plots to determine which approach is better
