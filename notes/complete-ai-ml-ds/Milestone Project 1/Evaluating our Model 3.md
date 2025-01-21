@@ -124,3 +124,5 @@ plt.show()
 
 And we see the "alternative" results
 - But its tough from these plots to determine which approach is better
+
+Let's see how we do feature importance in the next video
