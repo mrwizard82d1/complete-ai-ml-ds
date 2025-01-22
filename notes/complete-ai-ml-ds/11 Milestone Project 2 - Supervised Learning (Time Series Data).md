@@ -19,3 +19,11 @@
 [[Milestone Project 2/Preprocessing Our Data]]
 [[Milestone Project 2/Making Predictions]]
 [[Milestone Project 2/Feature Importance]]
+
+Resources
+- [Project Notebooks](https://github.com/mrdbourke/zero-to-mastery-ml/tree/master/section-3-structured-data-projects)
+- [Bulldozer Price Notebook 1](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-v1.ipynb)
+- [Bulldozer Price Notebook 2](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-v2.ipynb)
+- [Bulldozer Price Video](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-video.ipynb)
+- [Bluebook for Bulldozers Download](https://github.com/mrdbourke/zero-to-mastery-ml/raw/master/data/bluebook-for-bulldozers.zip)
+	- And downloaded to /Users/larry/professional/projects/complete-ai-ml-ds/notes/complete-ai-ml-ds/Milestone Project 2/bluebook-for-bulldozers.zip.
