@@ -1,0 +1,22 @@
+Three big words
+- Data Mining
+	- Pre-processing and
+	- Extracting some knowledge
+	- From the data
+- Big Data
+	- We have "alot" of data
+		- Too much for laptop or workstation
+		- Running on multiple computers or cloud
+	- Newer technologies
+		- HADOOP
+		- NoSQL
+- Data pipeline
+	- A pipeline 
+		- Built by a data engineer 
+		- To use **very** large amounts of data
+		- That extracts "interesting" data to a useful form
+	- A data engineer
+		- Accumulates and extracts data
+		- To allow end users to make business decisions
+		- From their data
+		- A "predecessor" to many modeling, analysis, and decision making tasks
