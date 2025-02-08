@@ -1,5 +1,8 @@
 [[NN/Section Overview]]
 [[NN/Deep Learning and Unstructured Learning]]
+
+[[Setup Apple M1 Pro and M1 Max for Machine Learning]]
+
 [[NN/Setting Up With Google]]
 [[NN/Setting Up Google Colab]]
 [[NN/Google Colab Workspace]]
@@ -42,3 +45,5 @@
 [[NN/Submitting Model to Kaggle]]
 [[NN/Making Predictions on Our Images]]
 [[NN/Finishing Dog Vision - Where to Next]]
+
+[[Setup Apple M1 Pro and M1 Max for Machine Learning]]
