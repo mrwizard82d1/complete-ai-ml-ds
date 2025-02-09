@@ -15,4 +15,4 @@ From video
 	- `mkdir tensorflow-test`
 	- `cd tensorflow-test`
 
-I did not finish watching Daniel's video. I was able to install an envirnoment using the instructions in this [accepted answer](https://stackoverflow.com/questions/72964800/what-is-the-proper-way-to-install-tensorflow-on-apple-m1-in-2022)
+I did not finish watching Daniel's video. I was able to install an environment using the instructions in this [accepted answer](https://stackoverflow.com/questions/72964800/what-is-the-proper-way-to-install-tensorflow-on-apple-m1-in-2022)
