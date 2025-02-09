@@ -30,7 +30,7 @@
 [[NN/Building a Deep Learning Model 3]]
 [[NN/Building a Deep Learning Model 4]]
 [[NN/Summarizing Our Model]]
-[[NN/Evaluating Oulr Model]]
+[[NN/Evaluating Our Model]]
 [[NN/Preventing Overfitting]]
 [[NN/Training Your Deep Neural Network]]
 [[NN/Evaluating Performance with TensorBoard]]
@@ -47,3 +47,5 @@
 [[NN/Finishing Dog Vision - Where to Next]]
 
 [[Setup Apple M1 Pro and M1 Max for Machine Learning]]
+
+[[NN/Course Resources]]
