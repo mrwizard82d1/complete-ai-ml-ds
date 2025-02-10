@@ -49,3 +49,4 @@
 [[Setup Apple M1 Pro and M1 Max for Machine Learning]]
 
 [[NN/Course Resources]]
+[[NN/Colab Resources]]
