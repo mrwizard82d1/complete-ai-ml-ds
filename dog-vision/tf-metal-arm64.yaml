@@ -22,3 +22,4 @@ dependencies:
   - pip:
     - tensorflow
     - tensorflow-metal  ## optional, but recommended
+    - tensorflow_hub  ## A repository of trained machine learning models
