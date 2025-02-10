@@ -1,10 +1,22 @@
 name: dog-vision
 channels:
-  - conda-forge
-  - nodefaults
+  - defaults
 dependencies:
   - python=3.12  ## specify desired version
   - pip
+
+  # General tools
+  - cytoolz
+  - ipython
+  - jupyterlab
+
+  # Data analysis
+  - numpy
+  - matplotlib
+  - pandas
+
+  # Scikit-learn
+  - scikit-learn
 
   ## PyPI packages
   - pip:
