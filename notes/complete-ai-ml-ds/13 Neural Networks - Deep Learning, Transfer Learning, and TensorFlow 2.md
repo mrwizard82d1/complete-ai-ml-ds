@@ -10,6 +10,7 @@
 [[NN/Setting Up Our Data]]
 [[NN/Setting Up Our Data 2]]
 [[NN/Importing TensorFlow]]
+[[NN/Importing TensorFlow 2]]
 [[NN/Optional - TensorFlow 2.0 Default Issue]]
 [[NN/Using a GPU]]
 [[NN/GPU and Google Colab]]

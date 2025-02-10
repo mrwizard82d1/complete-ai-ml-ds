@@ -6,22 +6,7 @@ dependencies:
   - python=3.12  ## specify desired version
   - pip
 
-  ## General packages
-  - cytoolz
-
-  ## Machine learning / data science packages
-  - pandas
-  - numpy
-  - matplotlib
-  - scikit-learn
-  - jupyterlab
-  - ipykernel
-
-  # Include the ipython interpreter
-  - ipython
-
   ## PyPI packages
   - pip:
     - tensorflow
     - tensorflow-metal  ## optional, but recommended
-
