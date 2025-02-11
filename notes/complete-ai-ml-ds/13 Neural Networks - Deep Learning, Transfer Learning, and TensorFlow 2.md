@@ -13,7 +13,7 @@
 [[NN/Importing TensorFlow 2]]
 [[NN/Optional - TensorFlow 2.0 Default Issue]]
 [[NN/Using a GPU]]
-[[NN/GPU and Google Colab]]
+[[NN/Optional - GPU and Google Colab]]
 [[NN/Optional - Reloading Colab Notebook]]
 [[NN/Loading Our Data Labels]]
 [[NN//Preparing the Images]]
