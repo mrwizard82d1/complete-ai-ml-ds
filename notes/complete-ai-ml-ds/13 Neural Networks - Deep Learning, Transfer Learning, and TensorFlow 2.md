@@ -51,3 +51,6 @@
 
 [[NN/Course Resources]]
 [[NN/Colab Resources]]
+
+[How and why to create a validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
+
