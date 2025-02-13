@@ -16,7 +16,7 @@
 [[NN/Optional - GPU and Google Colab]]
 [[NN/Optional - Reloading Colab Notebook]]
 [[NN/Loading Our Data Labels]]
-[[NN//Preparing the Images]]
+[[NN/Preparing the Images]]
 [[NN/Turning Data Labels into Numbers]]
 [[NN/Creating Our Own Validation Set]]
 [[NN/Preprocess Images]]
