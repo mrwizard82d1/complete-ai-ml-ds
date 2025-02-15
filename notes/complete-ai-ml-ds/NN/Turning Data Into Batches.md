@@ -30,7 +30,7 @@ Create a simple function to return a tuple, `(image, label)`
 ```python
 def pair_image_label_tuple(image_path, label):
 	image = preprocess_image(image_path)
-	return image, tf.consant(label)
+	return image, label
 ```
 In the next video, we will turn our data into batches
 - Differs depending on
