@@ -25,5 +25,7 @@
 
 [[Pandas Resources]]
 [[Scikit-learn Resources]]
+[[TensorFlow Resources]]
+
 [[Random Forest Resources]]
 [[ROC Curves and AUC Resources]]
