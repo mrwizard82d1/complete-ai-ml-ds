@@ -54,5 +54,8 @@
 
 [[TensorFlow Resources]]
 
+[[Model Repositories]]
+
 [How and why to create a validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
+[YouTube PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&feature=youtu.be&t=173)
 
