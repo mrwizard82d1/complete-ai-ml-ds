@@ -6,8 +6,8 @@ What does our code mean?
 	- Keras layer of `MODEL_URL`
 
 What is "MobileNet V2"?
-- See [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
-- See [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+- See [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://medium.com/towards-data-science/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
+- See [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://medium.com/towards-data-science/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 Understanding model details
 - Read articles on MobileNet V2

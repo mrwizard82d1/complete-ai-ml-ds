@@ -60,7 +60,7 @@
 [How and why to create a validation set](https://www.fast.ai/posts/2017-11-13-validation-sets.html)
 [YouTube PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE&feature=youtu.be&t=173)
 
-[A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
-[Review: MobileNetV2 — Light Weight Model (Image Classification)](https://towardsdatascience.com/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
+[A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://medium.com/towards-data-science/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+[Review: MobileNetV2 — Light Weight Model (Image Classification)](https://medium.com/towards-data-science/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
 
 [https://en.wikipedia.org/wiki/Softmax_function](https://en.wikipedia.org/wiki/Softmax_function)
