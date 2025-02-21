@@ -64,3 +64,5 @@
 [Review: MobileNetV2 — Light Weight Model (Image Classification)](https://medium.com/towards-data-science/review-mobilenetv2-light-weight-model-image-classification-8febb490e61c)
 
 [https://en.wikipedia.org/wiki/Softmax_function](https://en.wikipedia.org/wiki/Softmax_function)
+
+[How to choose a loss function](https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/)
