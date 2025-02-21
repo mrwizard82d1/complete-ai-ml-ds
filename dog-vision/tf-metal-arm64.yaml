@@ -2,7 +2,7 @@ name: dog-vision
 channels:
   - defaults
 dependencies:
-  - python=3.12  ## specify desired version
+  - python=3.10  ## specify desired version
   - pip
 
   # General tools
@@ -11,15 +11,15 @@ dependencies:
   - jupyterlab
 
   # Data analysis
-  - numpy
+  - numpy=1.26
   - matplotlib
   - pandas
 
   # Scikit-learn
   - scikit-learn
 
-  ## PyPI packages
+  ## PyPI packages (tensorflow)
   - pip:
-    - tensorflow
+    - tensorflow==2.15
     - tensorflow-metal  ## optional, but recommended
     - tensorflow_hub  ## A repository of trained machine learning models

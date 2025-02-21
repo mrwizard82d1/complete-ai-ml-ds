@@ -27,6 +27,7 @@
 [[NN/Preparing Our Inputs and Outputs]]
 [[NN/Optional - How Machines Learn etc]]
 [[NN/Building a Deep Learning Model]]
+[[NN/TensorFlow Version Issue]]
 [[NN/Building a Deep Learning Model 2]]
 [[NN/Building a Deep Learning Model 3]]
 [[NN/Building a Deep Learning Model 4]]
