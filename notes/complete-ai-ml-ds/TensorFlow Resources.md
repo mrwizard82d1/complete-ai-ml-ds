@@ -1,3 +1,4 @@
 [TensorFlow Data Guide](https://www.tensorflow.org/guide/data)
 [TensorFlow Core - Load and PreprocessImages](https://www.tensorflow.org/tutorials/load_data/images)
 [The keras documentation](https://www.tensorflow.org/guide/keras/overview)
+[Keras Callbacks](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/TensorBoard)
