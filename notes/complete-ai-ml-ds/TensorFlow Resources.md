@@ -3,3 +3,4 @@
 [The keras documentation](https://www.tensorflow.org/guide/keras/overview)
 [Keras Callbacks](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/TensorBoard)
 [Keras Callbacks - Early Stopping](https://www.tensorflow.org/api_docs/python/tf/keras/callbacks/EarlyStopping)
+[Save and load models](https://www.tensorflow.org/tutorials/keras/save_and_load)
