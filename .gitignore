@@ -170,3 +170,6 @@ images/sample-plot.png
 
 # Ignore TensorBoard log files
 dog-vision/logs
+
+# Ignore dog-vision saved model files
+dog-vision/models
