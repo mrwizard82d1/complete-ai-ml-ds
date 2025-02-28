@@ -176,3 +176,6 @@ dog-vision/models
 
 # Ignore save dog-vision test model
 dog-vision/predictions-array.csv
+#
+# Ignore save dog-vision submission
+dog-vision/full-model-submission-1-mobilenetV2.csv
