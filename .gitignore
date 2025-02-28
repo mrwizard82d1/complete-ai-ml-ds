@@ -173,3 +173,6 @@ dog-vision/logs
 
 # Ignore dog-vision saved model files
 dog-vision/models
+
+# Ignore save dog-vision test model
+dog-vision/predictions-array.csv
